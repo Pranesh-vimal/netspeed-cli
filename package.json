@@ -6,7 +6,8 @@
   "preferGlobal": true,
   "bin": "./index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "echo \"No test specified\""
   },
   "author": "Pranesh P",
   "license": "MIT",

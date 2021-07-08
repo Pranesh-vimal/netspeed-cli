@@ -6,7 +6,7 @@ A speed test powered by fast.com. Cli used for finding the net speed.
 
 ```bash
 $ npm install --global netspeed-cli
-$ netspeed -h
+$ netspeed-cli -h
 
 Netspeed Finder
 

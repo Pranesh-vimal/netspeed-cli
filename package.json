@@ -1,0 +1,41 @@
+{
+  "name": "netspeed-cli",
+  "version": "1.0.1",
+  "description": "Netspeed cli",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Pranesh P",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "commander": "^8.0.0",
+    "fast-speedtest-api": "^0.3.2"
+  },
+  "keywords": [
+    "speedtest",
+    "speed",
+    "network",
+    "test",
+    "fast",
+    "bandwidth",
+    "kbps",
+    "mbps",
+    "fast.com",
+    "netflix",
+    "api",
+    "cli"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pranesh-vimal/netspeed.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pranesh-vimal/netspeed/issues"
+  },
+  "homepage": "https://github.com/Pranesh-vimal/netspeed#readme"
+}

@@ -32,10 +32,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pranesh-vimal/netspeed.git"
+    "url": "git+https://github.com/Pranesh-vimal/netspeed-cli.git"
   },
   "bugs": {
-    "url": "https://github.com/Pranesh-vimal/netspeed/issues"
+    "url": "https://github.com/Pranesh-vimal/netspeed-cli/issues"
   },
-  "homepage": "https://github.com/Pranesh-vimal/netspeed#readme"
+  "homepage": "https://github.com/Pranesh-vimal/netspeed-cli#readme"
 }
